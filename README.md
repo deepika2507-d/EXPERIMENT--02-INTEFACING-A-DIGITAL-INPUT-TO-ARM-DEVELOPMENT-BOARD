@@ -133,8 +133,11 @@ ROLL MO:212224240030
 
 ## Output  :
 SWITCH OFF:
+
 <img width="1004" height="919" alt="image" src="https://github.com/user-attachments/assets/e87c3cdf-7f05-4fea-9bc2-82a1e8c1010c" />
+
 SWITCH ON:
+
 <img width="894" height="863" alt="image" src="https://github.com/user-attachments/assets/567d5930-2c3d-42db-9cd8-d66c03978656" />
 
 
